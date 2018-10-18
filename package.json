@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-coffee": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "latest"
+  },
+  "dependencies": {
+    "gulp-csso": "^3.0.0",
+    "jquery": "^3.2.1",
+    "pump": "^1.0.2"
+  }
+}
