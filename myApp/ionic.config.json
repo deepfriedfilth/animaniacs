@@ -1,6 +1,6 @@
 {
   "name": "myApp",
-  "app_id": "",
+  "integrations": {},
   "gulpStartupTasks": [
     "sass",
     "watch"
