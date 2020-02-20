@@ -1,0 +1,3 @@
+[submodule "animaniapp"]
+	path = animaniapp
+	url = https://github.com/deepfriedfilth/animaniapp
