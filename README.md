@@ -9,13 +9,13 @@
 
 ### 🌱 Versions
 
-👎🏻 Take 1 (animani-v1)
+Take 1 (animani-v1) 👎🏻
 
-- requires ionic <= v1
+- requires ionic ≤ v1
 
-👍🏻 Take 2 (animaniapp)
+Take 2 (animaniapp) 👍🏻
 
-- requires ionic >= v2
+- requires ionic ≥ v2
 
 ### 💨 Let 'er rip
 
