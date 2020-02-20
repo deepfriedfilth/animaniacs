@@ -1,1 +1,1 @@
-# animaniacs
+# animaniapps
